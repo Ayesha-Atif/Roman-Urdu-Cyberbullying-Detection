@@ -1,0 +1,7 @@
+Following are classes targeted in this project and encoded in numeric values for dataset labeling.
+
+Racism - 1
+Abusive/Offensive - 2
+Sexism - 3
+Religious Hate- 4
+Neutral - 0
