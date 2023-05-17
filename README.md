@@ -2,7 +2,7 @@
 This repository contains code and resources for a project focused on detecting cyberbullying on social media using ML classifiers and a GRU (Gated Recurrent Unit) model.
 
 ## Project Overview
-In this project, we aim to develop a system that can automatically detect instances of cyberbullying in social media content. The project involves training machine learning classifiers and utilizing a GRU model to analyze text data and make predictions about whether a particular message contains cyberbullying content or not.
+In this project, we aim to develop a system that can automatically detect instances of cyberbullying in social media content. The project involves training machine learning classifiers and utilizing a GRU model to analyze text data and make predictions about whether a particular message contains cyberbullying content or not. This project also focuses on the abuser profile identification using computational strategy based on the category of tweets posted.
 
 ### Dataset
 We have created a custom dataset for this project, specifically curated and labeled for cyberbullying detection. The dataset includes a diverse range of social media messages, covering different platforms and scenarios.
